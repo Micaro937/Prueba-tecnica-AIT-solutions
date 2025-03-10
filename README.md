@@ -1,5 +1,5 @@
 # Prueba-tecnica-AIT-solutions
-Algunas de las herramientas que utilice para trabajar los archivos en Google Sheets fueron: 
+Algunas de las herramientas que utilicé para trabajar los archivos en Google Sheets fueron: 
 -Dividir texto en columnas con ciertos separadores como espacios, numero de dígitos, etc
 -Cree filtros y elimine filas en blanca 
 -Configure la columna precio a numero para dar con el formato indicado
